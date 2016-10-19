@@ -1,0 +1,18 @@
+{
+	"name": "sysinfo",
+	"version": "0.0.1",
+	"description": "System Information utility for nodejs",
+	"homepage": "https://github.com/GeorgeAdams95/sysinfo",
+	"main": "lib/index.js",
+	"author": "George Adams <george.adams@uk.ibm.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/GeorgeAdams95/sysinfo"
+	},
+	"bugs": {
+		"email": "george.adams@uk.ibm.com"
+	},
+	"dependencies": {
+		"dotenv": "^2.0.0"
+	}
+}
