@@ -3,7 +3,10 @@
 	"version": "0.0.1",
 	"description": "System Information utility for nodejs",
 	"homepage": "https://github.com/GeorgeAdams95/sysinfo",
-	"main": "lib/index.js",
+	"main": "bin/sysinfo",
+	"bin": {
+    "sysinfo": "./bin/index.js"
+  },
 	"author": "George Adams <george.adams@uk.ibm.com>",
 	"repository": {
 		"type": "git",
