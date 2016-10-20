@@ -6,4 +6,4 @@ to use:
 
 `npm install`
 
-`node lib/index.js`
+`node bin/index.js`
